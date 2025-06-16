@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { BsDownload } from 'react-icons/bs';
-import pdf from '../Resume_Vinay_Kumar_Chowdry.pdf';
+import pdf from '../Nithin Raghava Aitha.pdf';
 import { Document, Page, pdfjs } from 'react-pdf';
 import 'react-pdf/dist/esm/Page/AnnotationLayer.css';
 import 'react-pdf/dist/esm/Page/TextLayer.css';
@@ -37,7 +37,7 @@ const Resume = () => {
                 {numPages && renderPages()}
             </Document>
 
-            <a href={pdf} target='_blank' download="Vinay Kumar's Resume" rel="noreferrer">
+            <a href={pdf} target='_blank' download="Nithin Raghava's Resume" rel="noreferrer">
                 <button className='downloadCV' type='button'>
                     <h3><BsDownload/>&nbsp; Download CV</h3>
                 </button>

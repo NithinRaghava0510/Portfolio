@@ -30,17 +30,17 @@ function Experience() {
     const timeline = [
         {
             icon: starIcon,
-            date: 'Aug 2022 - Dec 2023',
+            date: 'Aug 2023 - May 2025',
             title: 'Master of Science (M.S) ',
-            subtitle: 'Information Technology',
-            desc: 'University of Cincinnati, Ohio, USA',
+            subtitle: 'Computer Science',
+            desc: 'George Washington University, DC, USA',
         },
         {
             icon: starIcon,
-            date: 'Aug 2016 - Aug 2020',
+            date: 'Aug 2019 - May 2023',
             title: 'Bachelor of Technology (B.Tech) ',
-            subtitle: 'Information Technology',
-            desc: 'C.V.R College of Engineering, Hyderbad, India',
+            subtitle: 'Computer Science',
+            desc: 'BV Raju Institute of Technology, Hyderbad, India',
         }
     ];
 

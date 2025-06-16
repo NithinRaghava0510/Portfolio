@@ -4,14 +4,21 @@ import {FaGithub} from 'react-icons/fa';
 
 const  ProjectBox = ({projectPhoto, projectName}) => {
     const desc = {
-        'Library Web AppDesc' : 'Java, Spring Boot, React, HTML5, CSS, Bootstrap4',
-        'Library AppGithub' : 'https://github.com/vinayvk31/Library-web-app',
-        'Library AppWebsite' : '',
+        'Finance TrackerDesc' : 'Reactjs, Axios, Nodejs, Expressjs, PostgreSQL, Concurrently, Dotnev',
+        'Finance TrackerGithub' : 'https://github.com/NithinRaghava0510/finance-tracker.git',
+        'Finacne TrackerWebsite' : '',
 
-        'Job-PortalDesc' : 'Javascript, Node.js, Express, React, MySQL, HTML4, Bootstrap4',
-        'Job-PortalWebsiteGithub' : 'https://github.com/vinayvk31/Job_Portal',
-        'Job-PortalWebsiteWebsite' : '',
+        'Lost/FoundDesc' : 'Reactjs, Axios, React Router, Nodejs, Expressjs, JSON Web Tokens, Multer, PostgreSQL',
+        'Lost/FoundGithub' : 'https://github.com/NithinRaghava0510/lost-found-app.git',
+        'Lost/FoundWebsite' : '',
 
+        'TaskTrackerDesc' : 'Angular 19, TypeScript, ASP .NET, Entity Framework, PostgreSQL',
+        'TaskTrackerGithub' : 'https://github.com/NithinRaghava0510/TaskTrackr.git',
+        'TaskTrackerWebsite' : '',
+
+        'WriteUpDesc' : 'Nodejs, Express, EJS, HTML5, CSS#, BootStrap',
+        'WriteUpGithub' : 'https://github.com/NithinRaghava0510/WriteUp.git',
+        'WriteUpWebsite' : '',
     };
     let show ='';
     if(desc[projectName + 'Github']===''){

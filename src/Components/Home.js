@@ -10,7 +10,7 @@ const Home = () => {
 
                 <div className='HomeText'>
                     <h1>Hi There!</h1>
-                    <h1>I'M <b style={{ color: '#9067C6',filter: 'drop-shadow(0 0 8px #9067C6)' }}>CHOWDRY VINAY KUMAR</b></h1>
+                    <h1>I'm <b style={{ color: '#9067C6',filter: 'drop-shadow(0 0 8px #9067C6)' }}>Nithin Raghava Aitha</b></h1>
                     <Typed />
                 </div>
                 <Tilt>
