@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.d1b35ff3.css",
-    "main.js": "/static/js/main.59116b0a.js",
-    "static/media/aadvi.png": "/static/media/aadvi.b2da69bd90cc0f2df2f2.png",
-    "static/media/ComplainApp.png": "/static/media/ComplainApp.9e010bf74ce1dc26594e.png",
-    "static/media/Nithin Raghava Aitha.pdf": "/static/media/Nithin Raghava Aitha.c8835dfaea256ad5dc4d.pdf",
-    "index.html": "/index.html",
-    "main.d1b35ff3.css.map": "/static/css/main.d1b35ff3.css.map",
-    "main.59116b0a.js.map": "/static/js/main.59116b0a.js.map"
+    "main.css": "/Portfolio/static/css/main.d1b35ff3.css",
+    "main.js": "/Portfolio/static/js/main.90695121.js",
+    "static/media/WriteUp.png": "/Portfolio/static/media/WriteUp.99f8cc0cb934da413d06.png",
+    "static/media/TaskTracker.png": "/Portfolio/static/media/TaskTracker.95edd0aba90681047588.png",
+    "static/media/Lost Found.png": "/Portfolio/static/media/Lost Found.f48886735462afc5216e.png",
+    "static/media/Finance Tracker.png": "/Portfolio/static/media/Finance Tracker.b372b3658a31ac3c023d.png",
+    "static/media/Nithin Raghava Aitha.pdf": "/Portfolio/static/media/Nithin Raghava Aitha.c8835dfaea256ad5dc4d.pdf",
+    "index.html": "/Portfolio/index.html",
+    "main.d1b35ff3.css.map": "/Portfolio/static/css/main.d1b35ff3.css.map",
+    "main.90695121.js.map": "/Portfolio/static/js/main.90695121.js.map"
   },
   "entrypoints": [
     "static/css/main.d1b35ff3.css",
-    "static/js/main.59116b0a.js"
+    "static/js/main.90695121.js"
   ]
 }
