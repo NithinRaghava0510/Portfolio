@@ -37,6 +37,3 @@ npm install
 npm start
 ```
 
-
-🙌 Acknowledgements
-This work was inspired from Vinay Chowdary.
