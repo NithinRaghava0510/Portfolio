@@ -20,6 +20,13 @@ function Experience() {
     const timeline = [
         {
             icon: workIcon,
+            date: 'May 2025 - Present',
+            title: 'SOFTWARE Engineer',
+            subtitle: 'METY Technology',
+            desc: 'React, ReactJS, JavaScript, NextJS, AWS, ML',
+        },
+        {
+            icon: workIcon,
             date: 'July 2024 - May 2025',
             title: 'SOFTWARE Engineer',
             subtitle: 'GW LAW LIBRARY',
@@ -27,7 +34,7 @@ function Experience() {
         },
         {
             icon: workIcon,
-            date: 'Aug 2022 - Mar 2023',
+            date: 'Jan 2022 - May 2023',
             title: 'Full Stack Developer Intern',
             subtitle: 'Technovert Solutions',
             desc: 'React, SpringBoot, Javascript, Express, Node.js, HTML, CSS , SQL/NoSQL, Github, AWS',
