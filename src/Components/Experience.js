@@ -20,26 +20,26 @@ function Experience() {
     const timeline = [
         {
             icon: workIcon,
-            date: 'May 2025 - Present',
+            date: 'Sept 2025 - Present',
             title: 'SOFTWARE Engineer',
-            subtitle: 'METY Technology',
-            desc: 'React, ReactJS, JavaScript, NextJS, AWS, ML',
+            subtitle: 'Global Payments',
+            desc: 'Python, FastAPI, PostgreSQL, AWS, React',
         },
         {
             icon: workIcon,
-            date: 'July 2024 - May 2025',
+            date: 'Jan 2021 - July 2023',
             title: 'SOFTWARE Engineer',
-            subtitle: 'GW LAW LIBRARY',
-            desc: 'React, ReactJS, JavaScript, NodeJS, HTML, CSS , MySQL, Docker, Postgres',
+            subtitle: 'Freshworks Inc',
+            desc: 'Python, FastAPI, Apache Spark, Azure, PostgreSQL, Redis, React',
         },
-        {
-            icon: workIcon,
-            date: 'Jan 2022 - May 2023',
-            title: 'Full Stack Developer Intern',
-            subtitle: 'Technovert Solutions',
-            desc: 'React, SpringBoot, Javascript, Express, Node.js, HTML, CSS , SQL/NoSQL, Github, AWS',
+        // {
+        //     icon: workIcon,
+        //     date: 'Jan 2022 - May 2023',
+        //     title: 'Full Stack Developer Intern',
+        //     subtitle: 'Technovert Solutions',
+        //     desc: 'React, SpringBoot, Javascript, Express, Node.js, HTML, CSS , SQL/NoSQL, Github, AWS',
 
-        },
+        // },
         // {
         //     icon: workIcon,
         //     date: 'Jan 2019 - Feb 2020',
