@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaReact, FaCss3Alt,FaDocker, FaGitAlt,FaAngular, FaGithub,FaAws,FaJava, FaHtml5, FaBootstrap, FaPython } from 'react-icons/fa';
-import { DiNodejs, DiJavascript1,DiMysql } from 'react-icons/di';
-import { SiExpress, SiPostgresql,SiPostman,SiTypescript,SiSpringboot,SiDjango,SiTailwindcss,SiMongodb } from 'react-icons/si';
+import { DiRedis, DiNodejs, DiJavascript1,DiMysql } from 'react-icons/di';
+import { SiFastapi, SiExpress, SiPostgresql,SiPostman,SiTypescript,SiSpringboot,SiDjango,SiTailwindcss,SiMongodb } from 'react-icons/si';
 const Skills = ({ skill }) => {
     const icon = {
         Javascript: <DiJavascript1 />,
@@ -25,7 +25,9 @@ const Skills = ({ skill }) => {
         Angular:<FaAngular/>,
         Typescript:<SiTypescript/>,
         Springboot:<SiSpringboot/>,
-        Django:<SiDjango/>
+        Django:<SiDjango/>,
+        FastAPI:<SiFastapi />,
+        Redis:<DiRedis />
     };
 
     return (

@@ -13,8 +13,8 @@ const Footer = () => {
             {/* <h4><b>Copyright</b> &copy; {year} CV </h4> */}
             <div className='footerLinks'>
                 <a href="https://github.com/NithinRaghava0510" target='_blank' rel="noreferrer"><FaGithub/></a>
-                <a href="https://www.linkedin.com/in/nithin-raghava-aitha/" target='_blank' rel="noreferrer"><FaLinkedin/></a>
-                <a href='mailTo:anithinraghava@gmail.com' target='_blank' rel="noreferrer"><GrMail/></a>
+                <a href="https://www.linkedin.com/in/nithinraghavaaitha1302026/" target='_blank' rel="noreferrer"><FaLinkedin/></a>
+                <a href='mailTo:aithanithinraghava@gmail.com' target='_blank' rel="noreferrer"><GrMail/></a>
             </div>
         </footer>
     );
